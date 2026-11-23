@@ -1,6 +1,6 @@
 # Marco Scarpettini
 
-Leer en español (#español)
+[Leer en español](#español)
 
 I study bioinformatics at the University of Buenos Aires. My thesis focused on detecting DNA deletions and duplications, known as copy number variants (CNVs), in exome data. How much does the choice of reference samples change which variants we detect in the same exome?
 
